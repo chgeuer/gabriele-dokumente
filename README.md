@@ -1,4 +1,6 @@
-# Ernährung im ersten Lebensjahr und Allergieprävention/ Ernährung bei Lebensmittelallergie
+# Ernährung im ersten Lebensjahr und Allergieprävention
+
+## Ernährung bei Lebensmittelallergie
 
 Warum Ernährung?
 
@@ -228,7 +230,7 @@ Die chronisch entzündliche Hauterkrankung ist zu einem großen Teil erblich bed
 
 Die Ursachen des atopischen Ekzems sind bislang nicht vollständig geklärt. Experten sehen im komplexen Krankheitsgeschehen und seinem sehr individuellen Verlauf ein Zusammenspiel aus genetischen Faktoren, immunologischen Veränderungen und Umwelteinflüssen.
 
-Es wird davon ausgegangen, dass die Betroffenen aufgrund genetischer Veranlagung stärker auf bestimmte Einflüsse reagieren als andere.   
+Es wird davon ausgegangen, dass die Betroffenen aufgrund genetischer Veranlagung stärker auf bestimmte Einflüsse reagieren als andere.  
 Dabei entwickeln sich erste Hautausschläge \(Ekzeme\) oft im Bereich des Kopfes, im Kindesalter dann eher an den Kniekehlen oder den Ellenbeugen. In der Regel besteht gleichzeitig eine Veranlagung zu trockener Haut.
 
 #### Magen -Darm -Trakt
