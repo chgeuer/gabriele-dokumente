@@ -44,6 +44,24 @@ Als alleinige Nahrung gedacht im ersten Lebensjahr bei nicht gestillten Säuglin
 
 #### Anfangsmilch „1" 
 
+
+| Durchschnittlich                     | 100g Pulver         | 100ml trinkfertig |
+|--------------------------------------|---------------------|-------------------|
+| Brennwert                            | 2.150 kJ / 513 kcal |  281 kJ / 67 kcal |
+| Eiweiss                              |                9.4g |            1,24 g |
+|--------------------------------------|---------------------|-------------------|
+| Kohlenhydrate, davon                 |                 61g |                8g |
+|    Lactose                           |                 53g |              6.9g |
+|    Saccharose                        |                     |                   |
+|    Maltodextrin                      |                     |                   |
+|    Stärke                            |                  8g |              1,1g |
+|--------------------------------------|---------------------|-------------------|
+| Fett, davon                          |               25,7g |              3,4g |
+|    mehrfach ungesättigte Fettsäuren, |                     |                   |
+|    davon LC-PUFA                     |              145 mg |           19,1 mg |
+|--------------------------------------|---------------------|-------------------|
+
+
 Durchschnittlich 
 Brennwert 
 Eiweiß 
