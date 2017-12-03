@@ -21,7 +21,7 @@ Warum Ernährung?
 
 #### "1"
 
-- Das Kürzel „1" bedeutet, dass neben Milchzucker auch noch andere Kohlenhydrate wie Stärke oder Maltodextrine enthalten sind 
+- Das Kürzel „1" bedeutet, dass neben Milchzucker auch noch andere Kohlenhydrate wie Stärke oder Maltodextrin enthalten sind 
 
 ```
 Als alleinige Nahrung gedacht im ersten Lebensjahr bei nicht gestillten Säuglingen 
@@ -31,8 +31,8 @@ Als alleinige Nahrung gedacht im ersten Lebensjahr bei nicht gestillten Säuglin
 
 - Das Kürzel „HA" steht für hypoallergen. Diese Milchnahrung ist für allergiegefährdete Säuglinge gedacht. 
 - Das enthaltene Eiweiß ist teilhydrolysiert, also zerkleinert. 
-- In den ersten Lebensmonaten bei allergiegefährdeten und nichttgestillten Babies.  
-- Kann als Gabe von Beikost durch "Pre" oder "1" ersetzt  werden, da danach wissenschaftlich keine präventiven Vorteilenehr vorhanden sind 
+- In den ersten Lebensmonaten bei allergiegefährdeten und nicht-gestillten Babys.  
+- Kann als Gabe von Beikost durch "Pre" oder "1" ersetzt werden, da danach wissenschaftlich keine präventiven Vorteile mehr vorhanden sind 
 
 #### "2" und "3"
 
@@ -48,7 +48,7 @@ Als alleinige Nahrung gedacht im ersten Lebensjahr bei nicht gestillten Säuglin
 | Durchschnittlich                     | 100g Pulver         | 100ml trinkfertig |
 |--------------------------------------|      -------------: |     ----------:   |
 | Brennwert                            | 2.150 kJ / 513 kcal |  281 kJ / 67 kcal |
-| Eiweiss                              |                9.4g |            1,24 g |
+| Eiweiß                               |                9.4g |            1,24 g |
 |                                      |                     |                   |
 |------------------------------------------------------------|-------------------|
 | Kohlenhydrate, davon                 |                 61g |                8g |
@@ -68,7 +68,7 @@ Als alleinige Nahrung gedacht im ersten Lebensjahr bei nicht gestillten Säuglin
 | Durchschnittlich                     | 100g Pulver         | 100ml trinkfertig |
 |--------------------------------------|      -------------: |     ----------:   |
 | Brennwert                            | 2.080 kJ / 498 kcal |  279 kJ / 67 kcal |
-| Eiweiss                              |                9.9g |             1,3 g |
+| Eiweiß                               |                9.9g |             1,3 g |
 |                                      |                     |                   |
 |------------------------------------------------------------|-------------------|
 | Kohlenhydrate, davon                 |               61,7g |              8,3g |
@@ -85,7 +85,7 @@ Als alleinige Nahrung gedacht im ersten Lebensjahr bei nicht gestillten Säuglin
 | Ballaststoffe                        |                < 1g |            < 0,1g |
 
 
-## Säuglingsnahrung auf der Basis von Soia 
+## Säuglingsnahrung auf der Basis von Soya 
 
 - mögliche Nachteile durch (hohe) Gehalte an 
   - Phytat, Aluminium und Phytoöstrogenen 
@@ -127,12 +127,12 @@ In dieser Zeit beginnt das kindliche Immunsystem „aufzuwachen" und sollte mit 
 
 Im Austausch mit einer Milchmahlzeit können nun schrittweise die Breie eingeführt werden. 
 
-- Erster Brei: Gemüse- Kartoffel- Fleisch- Brei (Mittagsbrei) (Heft S. 8) 
+- Erster Brei: Gemüse- Kartoffel- Fleisch- Brei (Mittagsbrei) 
   - Als ersten Brei den Gemüse- Kartoffel-Fleisch — Brei mit seinem hohen Eisengehalt 
   - Empfohlen wird Fleisch 5x pro Woche 
-- Zweiter Brei: Milch- Getreide- Brei (Abendbrei S. 
+- Zweiter Brei: Milch- Getreide- Brei (Abendbrei) 
   Als zweiter Brei wird der Milch- Getreide-Brei empfohlen, der die Milchmahlzeit am Abend ersetzt 
-- Dritter Brei: Getreide- Obst- Brei am Nachmittag (S. 12) 
+- Dritter Brei: Getreide- Obst- Brei am Nachmittag 
   - Da dieser Brei keine Milch erhält, ist er eiweißarm und somit auf die beiden anderen eiweißreichen Breimahlzeiten abgestimmt. Durch das Vitamin C im Obst wird die Eisenaufnahme ins Blut begünstigt. 
   - Für Babys mit erhöhtem Allergierisiko 
     - Vollmilch anfangs mit Wasser verdünnen und nach dem Brei noch stillen 
@@ -143,7 +143,7 @@ Im Austausch mit einer Milchmahlzeit können nun schrittweise die Breie eingefü
 
 #### Tipp: 
 
-- Nach Einführung und Akzeptanz der Breie können der Mittags und der Abendbrei zeitlich getauscht werden- häufig wird der Gemüsebrei vom Baby abends besser angenommen. 
+- Nach Einführung und Akzeptanz der Breie können der Mittags- und der Abendbrei zeitlich getauscht werden- häufig wird der Gemüsebrei vom Baby abends besser angenommen. 
 - Ab dem ersten Brei kann dem Baby Extra- Flüssigkeit angeboten werden, am besten Wasser 
 
 ## Welche Lebensmittel Sind erlaubt? 
@@ -151,14 +151,14 @@ Im Austausch mit einer Milchmahlzeit können nun schrittweise die Breie eingefü
 Im Grunde gibt es kaum Einschränkungen! 
 
 - Milch 3,5 % (frisch oder H) bzw. was im Haushalt vorhanden ist 
-- Fleisch ( Schwein, Rind, Geflügel, Lamm) — empfohlen wird 5x pro Woche 
+- Fleisch (Schwein, Rind, Geflügel, Lamm) — empfohlen wird 5x pro Woche 
 - Gemüse (z.B. Möhren, Zucchini, Blumenkohl, Brokkoli, Pastinake, Kürbis...) 
 - Kartoffeln, Reis später Nudeln 
 - Obstsaft 
-- Obstpürree von Apfel, Birne, Banane, Pfirsich, Nektarine, Erdbeere... 
+- Obst-Püree von Apfel, Birne, Banane, Pfirsich, Nektarine, Erdbeere... 
 - Pflanzenöl (Rapsöl) 
 - Vollkorngetreideflocken (in Form von Instant- Getreideflocken), später Brot 
-- Fisch ! 
+- Fisch! 
 
 Neue Forschungen haben ergeben, dass die Auseinandersetzung des kindlichen Immunsystems mit vielen Nahrungsmitteln eher vorbeugend gegen Allergien wirkt. 
 
@@ -181,7 +181,7 @@ Zöliakie ist eine lebenslängliche Unverträglichkeit gegenüber dem Klebereiwe
 
 Milchbreie in Pulverform enthalten getrocknete Milch oder Milchbestandteile und werden nur mit Wasser angerührt 
 
-### Appetit und Steuerung der Nahrungaufnahme 
+### Appetit und Steuerung der Nahrungsaufnahme 
 
 - Säuglinge und Kleinkinder können ihre Energiezufuhr gut selbst regulieren: 
 - auch über eine Reihe von Mahlzeiten: 
@@ -240,9 +240,9 @@ Weitere Beschwerden können im Magen- Darm- Trakt mit Durchfall, Erbrechen, Blä
 
 Bei Verdacht, dass das Baby allergisch regiert, hilft eine auf Allergien spezialisierte Kinderarztpraxis. 
 
-Nur dort kann die Diagnose gestellt und spezielle weitere Maßnahmen besprochen werden z.B. Verabreichung einer stark hydrolisierte Säuglingsnahrung, spezielle Hautpflege und Cremes usw. 
+Nur dort kann die Diagnose gestellt und spezielle weitere Maßnahmen besprochen werden z.B. Verabreichung einer stark hydrolysierte Säuglingsnahrung, spezielle Hautpflege und Cremes usw. 
 
-- stark hydrolisierte Säuglingsnahrung 
+- stark hydrolysierte Säuglingsnahrung 
 - extensive Hydrolysate oder 
 - Aminosäuremischungen 
   - (nahezu) allergenfrei 
@@ -252,4 +252,4 @@ Nur dort kann die Diagnose gestellt und spezielle weitere Maßnahmen besprochen 
 
 Nur in Apotheken erhältlich. 
 
-Keinesfalls sollte das Baby Fertigmilch auf Sojabasis als Alternative gegeben werden, denn es könnte sich eine sogenannte Kreuzallergie zeigen. 
+Keinesfalls sollte das Baby Fertigmilch auf Sojabasis als Alternative gegeben werden, denn es könnte sich eine sogenannte Kreuzallergie zeigen.
