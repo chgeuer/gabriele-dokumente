@@ -46,81 +46,39 @@ Als alleinige Nahrung gedacht im ersten Lebensjahr bei nicht gestillten Säuglin
 
 
 | Durchschnittlich                     | 100g Pulver         | 100ml trinkfertig |
-|--------------------------------------|---------------------|-------------------|
+|--------------------------------------|--------------------:| --------------:   |
 | Brennwert                            | 2.150 kJ / 513 kcal |  281 kJ / 67 kcal |
 | Eiweiss                              |                9.4g |            1,24 g |
-|--------------------------------------|---------------------|-------------------|
+|                                      |                     |                   |
 | Kohlenhydrate, davon                 |                 61g |                8g |
 |    Lactose                           |                 53g |              6.9g |
 |    Saccharose                        |                     |                   |
 |    Maltodextrin                      |                     |                   |
 |    Stärke                            |                  8g |              1,1g |
-|--------------------------------------|---------------------|-------------------|
+|                                      |                     |                   |
 | Fett, davon                          |               25,7g |              3,4g |
 |    mehrfach ungesättigte Fettsäuren, |                     |                   |
 |    davon LC-PUFA                     |              145 mg |           19,1 mg |
+
+
+#### Folgemilch "2"
+
+| Durchschnittlich                     | 100g Pulver         | 100ml trinkfertig |
+|--------------------------------------|---------------------| --------------:   |
+| Brennwert                            | 2.080 kJ / 498 kcal |  279 kJ / 67 kcal |
+| Eiweiss                              |                9.9g |             1,3 g |
+|------------------------------------------------------------|-------------------|
+| Kohlenhydrate, davon                 |               61,7g |              8,3g |
+|    Lactose                           |               51,7g |              6.9g |
+|    Saccharose                        |                5,4g |              0,7g |
+|    Maltodextrin                      |                     |                   |
+|    Stärke                            |                 10g |              1,3g |
 |--------------------------------------|---------------------|-------------------|
-
-
-Durchschnittlich 
-Brennwert 
-Eiweiß 
-Kohlenhydrate. davon 
-Lactose 
-Saccharose 
-Maltodextrin 
-Stärke 
-Fett, davon 
-mehrfach 
-ungesättigte 
-Fettsäuren, davon 
-LC-PUFA 
-Folgemilch „2" 
-Durchschnittlich 
-Brennwert 
-Eiweiß 
-Kohlenhydrate, davon 
-Lactose 
-Saccharose 
-Maltodextrin 
-Stärke 
-Fett 
-mehrfach ungesättigte 
-Fettsäuren, davon 
-a-Linolensäure 
-(Omega-3) 
-Ballaststoffe 
-100 g 
-Pulver 
-2.150 W 
-513 kcal 
-61 g 
-53 g 
-25,7 g 
-145 mg 
-100 g 
-Pulver 
-2.080 
-kcal 
-61,7 g 
-51,7 g 
-log 
-23,5 g 
-380 mg 
-100 ml 
-trinkfertig 
-281 RJ 
-67 kcal 
-1,24 g 
-1,1 g 
-19,1 mg 
-100 ml 
-trinkfertig 
-67 kcal 
-1,3g 
-51 mg 
-4 
-
+| Fett, davon                          |               23,5g |              3,2g |
+|    mehrfach ungesättigte Fettsäuren, |                4,3g |              0,6g |
+|    alpha-Linolensäure (Omega3)       |              380 mg |             51 mg |
+|                                      |                     |                   |
+| Ballaststoffe                        |                < 1g |            < 0,1g |
 
 
 ## Säuglingsnahrung auf der Basis von Soia 
